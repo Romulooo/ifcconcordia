@@ -1,0 +1,183 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.brasil{
+    color: #606060;
+    font-size: 1vw;
+    margin-top: -1.5vw;
+    margin-left: 2.7vw;
+    margin-right: 4vw;
+}
+
+.cabeçalho{
+    background-color: #e6e6e6;
+    border-bottom: 0.2vw solid rgb(221, 221, 221);
+}
+
+.bandeira{
+    margin-top: 0.5vw;
+    height: 1.7vw;
+}
+
+.gov{
+    margin-left: 20vw;
+    display: inline-block;
+    border-right: 0.2vw solid rgb(221, 221, 221);
+}
+
+.links_borda{
+    height: 3vw;
+    border-right: 0.2vw solid rgb(221, 221, 221);
+    float: right;
+    margin-top: 0vw;
+    margin-right: 16vw;
+}
+
+.links{
+    margin-top: 1vw;
+}
+
+.link{
+    color: #606060;
+    margin-right: 1.8vw;
+    font-size: 0.8vw;
+}
+
+.covid{
+    margin-left: 1.8vw;
+    margin-right: 1.8vw;
+    font-size: 0.8vw;
+}
+
+.navbar{
+    background-color: #e6e6e6;
+}
+
+.logo{
+    margin: 1vw 16vw;
+    height: 6vw;
+}
+
+.pesquisa{
+    margin-top: 5vw;
+    margin-right: 12vw;
+    width: 16vw;
+    height: 1.7vw;
+    float: right;
+    font-size: 1vw;
+}
+
+.botões{
+    background-color: #0E6C1D;
+    height: 3.5vw;
+    width: 71vw;
+    margin-left: 14.5vw;
+    margin-top: 2vw;
+    display: inline-block;
+}
+
+.inicio{
+    height: 2vw;
+    margin-left: 1vw;
+    margin-bottom:-2vw;
+}
+
+.links2{
+    margin-left: 3vw;
+    margin-top: -0.2vw;
+}
+
+.link2{
+    font-size: 0.84vw;
+    margin-left: 1vw;
+    color: white;
+    text-decoration: none;
+}
+
+.carrossel_img{
+    margin-top: 2vw;
+    margin-left: 15vw;
+    width: 70vw;
+}
+
+.noticias{
+    margin-top: 2vw;
+    width: 40vw;
+    margin-left: 15vw;
+}
+
+.noticias_icone{
+    width: 3vw;
+}
+
+.noticias_titulo{
+    color: #4b4b4b;
+    font-size: 1.8vw;
+    float: right;
+    margin-right: 30vw;
+    margin-top: 0.3vw;
+}
+
+.noticia{
+    width: 40vw;
+    margin-bottom: 1vw;
+}
+
+.noticia_titulo{
+    color: #0E6C1D;
+    float:right;
+    font-size: 1vw;
+    margin-top:0;
+    margin-right: 4vw;
+    width: 21vw;
+}
+
+.noticia_texto{
+    width: 25vw;
+    float:right;
+    font-size: 1vw;
+    margin-top:-8vw;
+}
+
+.cursos{
+    float: right;
+    width: 28vw;
+    margin-right: 15vw;
+    margin-top: -30.5vw;
+}
+
+.cursos_icone{
+    width: 3vw;
+    margin-top: 0;
+}
+
+.cursos_botões{
+    width: 28vw;
+}
+
+.cursos_rodapé{
+    width: 28vw;
+}
+
+.noticia1imagem{
+    margin-left: 14vw;
+}
+
+.noticia1titulo{
+    font-size: 1.4vw;
+    margin-left: 14.5vw;
+}
+
+.noticia_texto_alongado{
+    margin-top: -0.5vw;
+    margin-right: 15vw;
+    width: 50vw;
+    float: right;
+}
